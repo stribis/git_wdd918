@@ -49,3 +49,7 @@ h1,h2,h3{
   background: rgb(255, 199, 69);
   color: black;
 }
+
+footer{
+  background: grey;
+}
